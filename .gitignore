@@ -1,0 +1,6 @@
+# Ignorar todos los archivos .log de cualquier directorio
+*.log
+
+# Ignorar todos los archivos compilados por python
+__pycache__/
+*.pyc
