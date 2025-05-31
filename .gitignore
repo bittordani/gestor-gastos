@@ -4,3 +4,6 @@
 # Ignorar todos los archivos compilados por python
 __pycache__/
 *.pyc
+
+# Ignorar los archivos que empiecen por test
+test*.py
